@@ -1,0 +1,16 @@
+#include<stdio.h>
+void main{
+scanf("%d,%d" &a,&b);
+printf("enter the value of a and b");
+}
+swithch:
+case1:a+b
+printf("addition of two number",%d);
+break;
+case2:a-b
+printf("subtraction of two number",%d);
+break;
+case3:a*b
+printf("multiplication of two number",%d);
+break;
+
