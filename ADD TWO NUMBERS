@@ -1,0 +1,11 @@
+import java.util.*;
+public class Java{
+public static void main (String[]args){
+    Scanner a=new Scanner(System.in);
+    System.out.println("enter the values");
+    int num1=a.nextInt();
+    int num2=a.nextInt();
+    int num3=num1+num2;
+    System.out.println("sum is"+num3);
+}
+}
